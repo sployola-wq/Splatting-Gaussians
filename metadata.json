@@ -1,0 +1,10 @@
+{
+  "name": "Air mission photogrametric or Gaussian Splatting",
+  "description": "Estudio profesional de planificación de vuelos fotogramétricos, captura 3D Gaussian Splatting (3DGS) y generación nativa de archivos DJI WPML 3.0 (.KMZ) optimizado para DJI Air 3S (RC 2 / RC-N2) y DJI Pilot 2.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
